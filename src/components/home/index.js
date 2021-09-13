@@ -19,7 +19,7 @@ function Home() {
                 </div>
 
                 <div className="info-button">
-                    <a href="/">Mais informações</a>
+                    <a href="#sobre">Mais informações</a>
                 </div>
         
             </div>

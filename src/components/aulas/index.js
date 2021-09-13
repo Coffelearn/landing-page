@@ -12,7 +12,7 @@ function Aulas() {
 
                 <p>Com o nosso sistema de Stream de aulas, com uma conexão com a internet você pode estudar de onde quiser e continuar suas aulas de onde você parou.</p>
 
-                <a href="">Continuar de onde parou</a>
+                <a href="https://coffelearn.cf/">Continuar de onde parou</a>
                 
             </div>
 
