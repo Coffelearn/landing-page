@@ -35,7 +35,7 @@ function Footer() {
             </div>
 
             <div className="copy">
-                <h1>CoffeLearn - Feito com ☕ by CoffeLearn</h1>
+                <h1>CoffeLearn - Feito com ☕ por CoffeLearn</h1>
             </div>
         </div>
     )
